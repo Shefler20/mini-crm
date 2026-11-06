@@ -1,6 +1,6 @@
 # Мини-CRM строительной компании
 
-Демо: https://mini-crm-ten-mu.vercel.app
+Domains: https://mini-crm-1de.pages.dev/
 
 GitHub: https://github.com/Shefler20/mini-crm
 
